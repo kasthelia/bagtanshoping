@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: rgba(130, 52, 255, 0.863);
+    font-family: 'Arial Narrow Bold';
+}
+.product
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h4{
+    color: rgb(32, 11, 223);
+}
+.footer{
+    background-color: aliceblue;
+}
+.footer1{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: flex-end;
+}
+    
